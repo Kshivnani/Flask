@@ -1,5 +1,12 @@
-<h1>Flask Web App From Scratch</h1>
+<div align="center">
+  <h1>Flask Web Application From Scratch</h1>
+ </div>
 
-# Flask
+> Uses Flask = 3.0.3
 
-<br>
+## 💾 REQUIREMENTS
++ flask
+
+```bash
+pip install -r requirements.txt
+```
